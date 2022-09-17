@@ -2,5 +2,6 @@
 
 1.Right Triangle Pattern
 2.Linked List
-3.Stack
+3.Circular Queue
+
 
