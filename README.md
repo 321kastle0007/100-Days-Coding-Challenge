@@ -3,4 +3,6 @@
 1.Right Triangle Pattern
 2.Linked List
 3.Circular Queue
-.Stack Using Array
+4.Stack Using Array
+5.Check palindrome or not using string
+6.
