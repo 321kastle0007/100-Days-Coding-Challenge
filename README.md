@@ -5,4 +5,4 @@
 3.Circular Queue
 4.Stack Using Array
 5.Check palindrome or not using string
-6.
+6.Simple recusrion using java
