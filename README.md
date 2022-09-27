@@ -22,4 +22,6 @@
 
 11.Linked list [Delete]
 
-12.
+12.Floyd's Triangle using C
+
+13.
