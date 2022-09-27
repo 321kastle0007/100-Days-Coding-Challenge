@@ -12,4 +12,6 @@
 
 6.Simple recusrion using java
 
-4.Example of java print
+7.Example of java print
+
+8.Calculator
