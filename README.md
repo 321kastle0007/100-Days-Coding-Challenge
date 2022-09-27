@@ -11,3 +11,5 @@
 5.Check palindrome or not using string
 
 6.Simple recusrion using java
+
+4.Example of java print
