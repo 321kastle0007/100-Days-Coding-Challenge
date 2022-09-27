@@ -18,8 +18,8 @@
 
 9.Basic application of Pointer
 
-10.
+10.Reverse String using pointer
 
-11.
+11.Linked list [Delete]
 
 12.
