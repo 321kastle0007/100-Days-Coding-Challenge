@@ -17,3 +17,9 @@
 8.Calculator
 
 9.Basic application of Pointer
+
+10.
+
+11.
+
+12.
